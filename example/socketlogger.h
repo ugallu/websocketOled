@@ -13,7 +13,7 @@
 #include <Hash.h>
 
 static const char SSID[] = "capybara";
-static const char PASS[] = "K6D6R_bdpst_7465";
+static const char PASS[] = "<pass>";
 
 static const char SERVERIP[] = "webhook2websocket.herokuapp.com";
 #define SERVERPORT 80
